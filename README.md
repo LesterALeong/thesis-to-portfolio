@@ -1,4 +1,4 @@
-# Thesis to Portfolio
+# [Thesis to Portfolio](https://thesistoportfolio.streamlit.app/)
 
 **LLM-Powered Investment Assistant** built using Streamlit, OpenAI GPT-4o mini, Financial Modeling Prep (FMP), and yFinance.
 
